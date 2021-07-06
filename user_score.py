@@ -17,51 +17,80 @@ class User:
         self.u_human = 0 #cantidad de plata que gasta en arte humano.
 
     def general_result(self):
+        inicio = 'Is The year 2050, art made by '
+        opcion0 = ['humans ', 'artificial inteligence']
+        opcion1 = 'is the most popular'
+        opcion2 = ['People know diferrence between A.I art and Human art','People dont know diferrence between A.I art and Human art']
+        
         if self.yes > self.no:
             '''
             El usuario reconce en su mayoria el origen de la obra 
             '''
-            if self._ia < self.human: # el usuario valora más el arte humano. 
-                pass
-            elif self._ia > self.human: # el usuario valora más el arte artificial
-                pass
-            elif self._ia == self.human: # valora por igual ambos artes
+            if self.ia < self.human: # el usuario valora más el arte humano. 
+                return inicio + opcion0[0] + opcion1 + opcion2[0]
+            
+            elif self.ia > self.human: # el usuario valora más el arte artificial
+                return inicio + opcion0[1] + opcion1 +opcion2[0]
+            
+            elif self.ia == self.human: # valora por igual ambos artes
                 pass
 
     
         elif self.yes < self.no:
-            '''
-            El usuario no reconce en su mayoria el origen de la obra 
-            '''
-            pass
+            
+            if self.ia < self.human: # el usuario valora más el arte humano. 
+                return inicio + opcion0[0] + opcion1 + opcion2[1]
+            
+            elif self.ia > self.human: # el usuario valora más el arte artificial
+                return inicio + opcion0[1] + opcion1 +opcion2[1]
+            
+            elif self.ia == self.human: # valora por igual ambos artes
+                pass
 
-        
         elif self.yes == self.no:
             pass
 
 
     def user_result(self):
+        inicio = 'Is The year 2050, art made by '
+        opcion0 = ['humans ', 'artificial inteligence']
+        opcion1 = 'is the most popular.'
+        opcion2 = [' People know diferrence between A.I art and Human art','People dont know diferrence between A.I art and Human art']
+        
         if self.u_yes > self.u_no:
             '''
             El usuario reconce en su mayoria el origen de la obra 
             '''
-            if self._ia < self.human: # el usuario valora más el arte humano. 
-                pass
-            elif self._ia > self.human: # el usuario valora más el arte artificial
-                pass
-            elif self._ia == self.human: # valora por igual ambos artes
-                pass
+            if self.u_ia <= self.u_human: # el usuario valora más el arte humano. 
+                return inicio + opcion0[1] + opcion1 + opcion2[0]
+            
+            elif self.u_ia > self.u_human: # el usuario valora más el arte artificial
+                return inicio + opcion0[0] + opcion1 +opcion2[0]
 
-    
-        elif self.u_yes < self.u_no:
-            '''
-            El usuario no reconce en su mayoria el origen de la obra 
-            '''
-            pass
 
-        elif self.u_yes == self.u_no:
-            pass
+        elif self.u_yes <= self.u_no:
+            
+            if self.u_ia <= self.u_human: # el usuario valora más el arte humano. 
+                return inicio + opcion0[1] + opcion1 + opcion2[1]
+            
+            elif self.u_ia > self.u_human: # el usuario valora más el arte artificial
+                return inicio + opcion0[0] + opcion1 +opcion2[1]
+
+
+if __name__ == '__main__':
+    import random as rd
+    from story_tellingAPI import story_telling
+    usuarios = {
+    }
+    for user in range(10):
+        usuarios.update({user: User()})
+        value_1, value_2 = rd.randint(0,100), rd.randint(0,100) 
+        print(value_2)
+        usuarios[user].u_yes = value_1
+        usuarios[user].u_no = 100 - value_1
+        usuarios[user].u_ai = value_2
+        usuarios[user].u_human = 100 - value_2
+        print(usuarios[user].user_result())
         
 
-        
 
