@@ -52,19 +52,19 @@ class User:
             El usuario reconce en su mayoria el origen de la obra 
             '''
             if self.u_ia <= self.u_human: # el usuario valora más el arte humano. 
-                return inicio + opcion0[1] + opcion1 + opcion2[0]
+                return inicio + opcion0[0] + opcion1 + opcion2[0]
             
             elif self.u_ia > self.u_human: # el usuario valora más el arte artificial
-                return inicio + opcion0[0] + opcion1 +opcion2[0]
+                return inicio + opcion0[1] + opcion1 +opcion2[0]
 
 
         elif self.u_yes <= self.u_no:
             
             if self.u_ia <= self.u_human: # el usuario valora más el arte humano. 
-                return inicio + opcion0[1] + opcion1 + opcion2[1]
+                return inicio + opcion0[0] + opcion1 + opcion2[1]
             
             elif self.u_ia > self.u_human: # el usuario valora más el arte artificial
-                return inicio + opcion0[0] + opcion1 +opcion2[1]
+                return inicio + opcion0[1] + opcion1 +opcion2[1]
 
 
     def __str__(self) -> str:
