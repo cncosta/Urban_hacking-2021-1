@@ -2,53 +2,49 @@
 
  Acá se encuentra el código prliminar para un prototipo de una Aplicación que evalua la capacidad de los usuarios de diferenciar el arte hecho por la inteligencia artificial y la manera en que estos la evaluan. Este prototipo se encuentra en el contexto de diseño especulativo en dodne se trata la temática de la intelgiencia artificial y el arte.
 
-## Contextualización 
-La inteligencia artificial ha tenido grandes avances en los últimos años dando paso a la creación de obras como The Next Rembrandt, un cuadro hecho completamente por una máquina. Obras por el estilo que son cada vez más comunes amenazan con tomar la escena artística, considerando que estas pueden hacer todo mucho más rápido que un humano, manteniendo, al parecer, la calidad. Estas resultan fascinantes para el público que las ve, en que en muchos casos no sabrían diferenciar entre lo que es hecho por humano y lo que es hecho por una máquina. Incluso en el caso de saber la diferencia se ha podido ver una clara preferencia por valorar más aquello que es hecho por Inteligencia artificial. 
+## Contextualización
 
-Dentro de esta controversia podemos señalar varios actores que afectan y se ven afectados por el arte artificial. 
+La inteligencia artificial ha tenido grandes avances en los últimos años dando paso a la creación de obras como The Next Rembrandt, un cuadro hecho completamente por una máquina. Obras por el estilo que son cada vez más comunes amenazan con tomar la escena artística, considerando que estas pueden hacer todo mucho más rápido que un humano, manteniendo, al parecer, la calidad. Estas resultan fascinantes para el público que las ve, en que en muchos casos no sabrían diferenciar entre lo que es hecho por humano y lo que es hecho por una máquina. Incluso en el caso de saber la diferencia se ha podido ver una clara preferencia por valorar más aquello que es hecho por Inteligencia artificial.
 
-### Entre los actores no humanos podemos identificar:
+Dentro de esta controversia podemos señalar varios actores que afectan y se ven afectados por el arte artificial.
 
-La I.A., que sería la “artista” de la controversia. Esta se compone de una base de datos, los cuales son traducidos a través de logaritmos, o sea ordenes que se le da a la inteligencia, para así generar la obra en cuestión. Esta se nos presenta a través de diversas interfaces, algunas llegando a ser humanoides. 
+### Entre los actores no humanos podemos identificar
 
-La tecnología y las herramientas que ofrece actualmente, además de ser un espacio donde se desenvuelve la controversia, es a la vez un importante actor, que permite el flujo de datos y que estos logren llegar a ser la obra. 
+La I.A., que sería la “artista” de la controversia. Esta se compone de una base de datos, los cuales son traducidos a través de logaritmos, o sea ordenes que se le da a la inteligencia, para así generar la obra en cuestión. Esta se nos presenta a través de diversas interfaces, algunas llegando a ser humanoides.
 
-### Entre los actores humanos podemos identificar: 
+La tecnología y las herramientas que ofrece actualmente, además de ser un espacio donde se desenvuelve la controversia, es a la vez un importante actor, que permite el flujo de datos y que estos logren llegar a ser la obra.
+
+### Entre los actores humanos podemos identificar
 
 Para esta controversia determinamos dos polos, los tecnoentusiastas y los conservadores del arte y humanidades.
-Dentro de los tecnoentusiastas se encuentran los científicos, o el equipo que está detrás de la creación de la I.A. Estos son los encargados de programar la secuencia de pasos que debe seguir la I.A. 
-También están los admiradores del avance tecnológico, que se ven extasiados como se puede extrapolar la tecnología, desde siempre vista con fines mercantiles y productivos, hacia el mundo del arte y las humanidades. 
+Dentro de los tecnoentusiastas se encuentran los científicos, o el equipo que está detrás de la creación de la I.A. Estos son los encargados de programar la secuencia de pasos que debe seguir la I.A.
+También están los admiradores del avance tecnológico, que se ven extasiados como se puede extrapolar la tecnología, desde siempre vista con fines mercantiles y productivos, hacia el mundo del arte y las humanidades.
 Y finalmente encontramos artistas, pertenecientes al data art, que utilizan datos y algoritmos para generar diversos tipos de obras, generalmente con un objetivo de visualización de datos.
 
 Por el otro lado, están aquellos que dicen “No, esto no es arte” basando sus ideas en temas humanistas y espirituales. Estos nos dirían: “El arte parte desde una reflexión puramente humana acerca de sus apreciaciones, problemáticas y deseos.”
 Aquí es donde entra el alma, aquello tan ambiguo y poco concreto, totalmente opuesto a las matemáticas que hay detrás de la tecnología. Según los apreciadores del arte puramente humano es el alma la que se ve reflejada a través de una imagen, una pieza musical o un registro audiovisual, por lo tanto, la obra creada por I.A. carece de alma, carece de ese valor agregado que es imperceptible a la vista, y que solo lo podemos conocer al saber del artista que la ha creado
 
-De las primeras cosas que se debieron investigar para este trabajo es la definición de los conceptos básicos que se encapsulan en la investigación. Para ello se debió estudiar conceptos claves como los son el arte, la estética  y la inteligencia artificial. 
+De las primeras cosas que se debieron investigar para este trabajo es la definición de los conceptos básicos que se encapsulan en la investigación. Para ello se debió estudiar conceptos claves como los son el arte, la estética  y la inteligencia artificial.
 
 Si bien hay muchas controversias que engloban estas temáticas, en este trabajo nos concentramos en el valor artístico que reside en las obras creadas por inteligencia artificial y el impacto que este tiene en la sociedad, dejando de lado otros temas interesantes como lo son la identidad de esta inteligencia y si se puede considerar como un ente creativo.  
 
-¿Qué es el arte? 
+¿Qué es el arte?
 
-	Según la RAE se define como “una manifestación de la actividad humana mediante la cual se interpreta lo real o se plasma lo imaginado con recursos plásticos, lingüísticos o sonoros.”  Por lo que esta definición atribuye esta actividad puramente al humano. Esto, sin embargo, está en una completa contraposición con lo que está pasando actualmente. En muchos ámbitos artísticos el humano deja de ser el que plasma su interpretación y es una máquina lo que lo hace. El artista en este caso queda relegado a un mero espectador de lo que hace la máquina. 
+ Según la RAE se define como “una manifestación de la actividad humana mediante la cual se interpreta lo real o se plasma lo imaginado con recursos plásticos, lingüísticos o sonoros.”  Por lo que esta definición atribuye esta actividad puramente al humano. Esto, sin embargo, está en una completa contraposición con lo que está pasando actualmente. En muchos ámbitos artísticos el humano deja de ser el que plasma su interpretación y es una máquina lo que lo hace. El artista en este caso queda relegado a un mero espectador de lo que hace la máquina. 
 
-	También podemos definir el arte como una experiencia estética.  La estética es una rama de la filosofía ligada al arte, donde el origen griego de la palabra nos dice que es lo ‘susceptible de percibirse por los sentidos’. Entonces a través de los sentidos vivimos experiencias estéticas, donde nos conmovemos o emocionamos. Por lo tanto podríamos decir que la experiencia estética se compone de sensaciones y sentimientos provocados por los sentidos.
+ También podemos definir el arte como una experiencia estética.  La estética es una rama de la filosofía ligada al arte, donde el origen griego de la palabra nos dice que es lo ‘susceptible de percibirse por los sentidos’. Entonces a través de los sentidos vivimos experiencias estéticas, donde nos conmovemos o emocionamos. Por lo tanto podríamos decir que la experiencia estética se compone de sensaciones y sentimientos provocados por los sentidos.
 
-	Por eso el valor de una obra de arte es algo muy complejo. En principio empieza con el objeto y la posibilidad de darle valor a la experiencia estética de sentir tal objeto. Se mira que es bonita una escultura, después se fija en el material.
+ Por eso el valor de una obra de arte es algo muy complejo. En principio empieza con el objeto y la posibilidad de darle valor a la experiencia estética de sentir tal objeto. Se mira que es bonita una escultura, después se fija en el material.
 
-
-¿Es el espectador el que le da un valor a este? 
-
+¿Es el espectador el que le da un valor a este?
 
 Por ejemplo, el bronce es menos costoso que el mármol, ¿eso significa que es menos arte? El tamaño de la composición, que tan grande, que tan importante es?
 
-
-	Por lo tanto la valoración estética es puramente desde el humano, ya que son diversos los factores que inciden en tal evaluación desde un punto de vista subjetivo. Cada valoración es distinta, pero pueden haber convenciones culturales, tal como el material, el tamaño, el oficio, entre otros, que aunque no sean totalmente determinantes, si lo pueden ser por cierta manera que tiene una cultura de conocer el mundo.
+ Por lo tanto la valoración estética es puramente desde el humano, ya que son diversos los factores que inciden en tal evaluación desde un punto de vista subjetivo. Cada valoración es distinta, pero pueden haber convenciones culturales, tal como el material, el tamaño, el oficio, entre otros, que aunque no sean totalmente determinantes, si lo pueden ser por cierta manera que tiene una cultura de conocer el mundo.
 
 Para concluir lo que es el arte, Lakoff y Johnson dijeron en su libro Metáforas de la vida cotidiana:
-	
+ 
     “El arte en su for­ma, uni­fi­ca la mis­ma re­la­ción de ha­cer y ex­pe­ri­men­tar, aque­lla ener­gía en­tran­te y sa­lien­te que hace a la ex­pe­rien­cia ser una ex­pe­rien­cia.”
-
-
 
 La inteligencia artificial según Margaret Boden tiene como objetivo que los ordenadores hagan la misma clase de cosas que pueda hacer la mente. Se asemejan a la mente y su funcionamiento. Y esta la encontramos en todas partes, en la casa, los autos, el trabajo, hasta en el cielo. Por lo tanto la IA. es una emulación del cerebro humano mediante sistemas de aprendizaje autónomo como deep learning y machine learning, donde el output de una I.A, llamadas decisiones, es el resultado de un cálculo probabilístico basado en patrones previamente detectados que luego se incorporan al funcionamiento del sistema computacional.
 
@@ -56,26 +52,24 @@ Estas decisiones se originan a partir de una autonomía artificial, dónde auton
 
     “Dado que los sistemas de ia —como las redes neuronales— constituyen cajas negras cuyo funcionamiento todavía no se ha podido descifrar e interpretar de manera completa, en la mayoría de los casos esta «toma de decisiones» se produce sin que podamos saber en virtud de qué criterios han sido adoptadas, intensificando, así, la percepción de distancia entre sujeto-creador y objeto creado.”
 
-El desarrollo de sistemas de I.A., con los que convivimos diariamente, ha reforzado, a su vez, el descentramiento, teórico y fáctico, del que viene siendo objeto el ser humano desde hace décadas, abocado ahora a coexistir con dispositivos no humanos involucrados en la producción de conocimiento y en procesos creativos. Este escenario nos obliga, pues, a re-situarnos en una ecología híbrida de actantes diversos y nos conmina a pensar qué papel nos corresponde desempeñar en este nuevo sistema (Nuria Rodríguez, 2020). 
+El desarrollo de sistemas de I.A., con los que convivimos diariamente, ha reforzado, a su vez, el descentramiento, teórico y fáctico, del que viene siendo objeto el ser humano desde hace décadas, abocado ahora a coexistir con dispositivos no humanos involucrados en la producción de conocimiento y en procesos creativos. Este escenario nos obliga, pues, a re-situarnos en una ecología híbrida de actantes diversos y nos conmina a pensar qué papel nos corresponde desempeñar en este nuevo sistema (Nuria Rodríguez, 2020).
 
-Un dispositivo de I.A no es otra cosa que una arquitectura computacional que trata de emular el comportamiento del cerebro humano mediante el diseño de sistemas de aprendizaje autónomo (machine learning y deep learning) basados en el procesamiento de ingentes cantidades de información en forma de datos de los que se extraen patrones mediante procesos de inducción estadística. En consecuencia, el significado de palabras como «autonomía», «decisión», «selección», etc., habituales para nombrar el comportamiento humano, deben situarse en este contexto informacional, estadístico y algorítmico cuando se refieren a un sistema de I.A. (ob.cit, 2020). El arte generado por redes inteligentes es una manifestación artística, cultural y tecnológica al mismo tiempo. Es así que no se puede aislar de su carga artística, ni de su ámbito social y mucho menos del estrato tecnológico en el que se halla inmerso. 
+Un dispositivo de I.A no es otra cosa que una arquitectura computacional que trata de emular el comportamiento del cerebro humano mediante el diseño de sistemas de aprendizaje autónomo (machine learning y deep learning) basados en el procesamiento de ingentes cantidades de información en forma de datos de los que se extraen patrones mediante procesos de inducción estadística. En consecuencia, el significado de palabras como «autonomía», «decisión», «selección», etc., habituales para nombrar el comportamiento humano, deben situarse en este contexto informacional, estadístico y algorítmico cuando se refieren a un sistema de I.A. (ob.cit, 2020). El arte generado por redes inteligentes es una manifestación artística, cultural y tecnológica al mismo tiempo. Es así que no se puede aislar de su carga artística, ni de su ámbito social y mucho menos del estrato tecnológico en el que se halla inmerso.
 
-Finalmente, el algoritmo se ha convertido en una nueva forma de arte. Convierte al humano en intermediario o materia prima, ya que la decisión final sobre el resultado excede a dicha persona. 
+Finalmente, el algoritmo se ha convertido en una nueva forma de arte. Convierte al humano en intermediario o materia prima, ya que la decisión final sobre el resultado excede a dicha persona.
 
-	
-La entrada del arte hecho por inteligencia artificial puede tener impactos graves en la cultura de las naciones. Octavio Kulesz (2018)  en un Reporte para la Unesco nos relata que rara vez se discute sobre el impacto que la IA podría tener en la cultura. Y esta omisión resulta inexplicable, sobre todo si tenemos en cuenta que la IA se está utilizando ya mismo para generar canciones, relatos y pinturas  lo que genera grandes interrogantes sobre el futuro del arte. 
-	
-Los principales oportunidades y desafíos que pueden resultar de la introducción de la IA en toda la cadena creativa:creación, producción, distribución, acceso, participación cualquier innovación tenderá a ejercer una influencia simultánea a lo largo de la cadena (ob.cit, 2018). 
+La entrada del arte hecho por inteligencia artificial puede tener impactos graves en la cultura de las naciones. Octavio Kulesz (2018)  en un Reporte para la Unesco nos relata que rara vez se discute sobre el impacto que la IA podría tener en la cultura. Y esta omisión resulta inexplicable, sobre todo si tenemos en cuenta que la IA se está utilizando ya mismo para generar canciones, relatos y pinturas  lo que genera grandes interrogantes sobre el futuro del arte.
+ 
+Los principales oportunidades y desafíos que pueden resultar de la introducción de la IA en toda la cadena creativa:creación, producción, distribución, acceso, participación cualquier innovación tenderá a ejercer una influencia simultánea a lo largo de la cadena (ob.cit, 2018).
 
-El machine learning da grandes ventajas para los artistas, las industrias creativas y el público IA baja las barreras de ingreso y hace posible que muchas más personas puedan componer sinfonías, películas y novelas, incluso sin conocimientos demasiado específicos sobre cada arte. La IA también puede representar una ventaja para las industrias creativas, sobre todo a la hora de reducir costos y ganar eficiencia. Esto podría resultar en beneficio del público, que tendría así acceso a una oferta de bienes y servicios culturales mucho más vasta (ob cit. 2018). 
+El machine learning da grandes ventajas para los artistas, las industrias creativas y el público IA baja las barreras de ingreso y hace posible que muchas más personas puedan componer sinfonías, películas y novelas, incluso sin conocimientos demasiado específicos sobre cada arte. La IA también puede representar una ventaja para las industrias creativas, sobre todo a la hora de reducir costos y ganar eficiencia. Esto podría resultar en beneficio del público, que tendría así acceso a una oferta de bienes y servicios culturales mucho más vasta (ob cit. 2018).
 
-Por otro lado, si bien estas herramientas pueden estimular el ingreso de nuevos creadores, en particular aquellos que dominan la programación y los medios digitales, dejan en peores condiciones a los artistas tradicionales, que generalmente no disponen de los conocimientos técnicos necesarios para experimentar con machine learning. A esto se le suma las sucesivas mejoras en la creación con IA que podrían generar obras cada vez más logradas, llegando al punto que el público sería incapaz de descubrir si éstas han sido ideadas por un ser humano, por una máquina o por la colaboración de ambos. Ello podría incentivar un crecimiento vertiginoso de obras desprovistas de identidad, valores y sentido( ob. cit, 2018). 
+Por otro lado, si bien estas herramientas pueden estimular el ingreso de nuevos creadores, en particular aquellos que dominan la programación y los medios digitales, dejan en peores condiciones a los artistas tradicionales, que generalmente no disponen de los conocimientos técnicos necesarios para experimentar con machine learning. A esto se le suma las sucesivas mejoras en la creación con IA que podrían generar obras cada vez más logradas, llegando al punto que el público sería incapaz de descubrir si éstas han sido ideadas por un ser humano, por una máquina o por la colaboración de ambos. Ello podría incentivar un crecimiento vertiginoso de obras desprovistas de identidad, valores y sentido( ob. cit, 2018).
 
 En términos de creatividad, esto haría que sean las empresas las que dominen la escena, mediante artistas autómatas, y que los individuos humanos pasen a un segundo lugar o, peor, sirvan simplemente de nuevo input para las máquinas.
-El arte se tornaría un bien de consumo descartable como cualquier otro y la suma de las creatividades individuales quedaría en manos de unas pocas empresas globales líderes en IA. De seguir así, estaríamos entonces en presencia de una “burbuja perfecta” que llevaría a una concentración sin precedentes de la creación, la producción y la distribución de los bienes y servicios culturales (ob. cit, 2018). 
+El arte se tornaría un bien de consumo descartable como cualquier otro y la suma de las creatividades individuales quedaría en manos de unas pocas empresas globales líderes en IA. De seguir así, estaríamos entonces en presencia de una “burbuja perfecta” que llevaría a una concentración sin precedentes de la creación, la producción y la distribución de los bienes y servicios culturales (ob. cit, 2018).
 
 Los países que no inviertan en IA o que no tengan una estrategia propia, sencillamente terminarán utilizando los servicios de grandes empresas globales, sin ninguna posibilidad de poner en marcha soluciones propias. La concentración tecnológica y la “burbuja perfecta” descritas en la sección anterior harían que, poco a poco, los creadores del Sur pierdan su autonomía y capacidad.
-
 
 ## Simulacón de posibles resultados
 
@@ -133,7 +127,7 @@ Activity: 17086
 Merit: 1000
 
 LegendaryActivity: 17086Merit: 1000 Re: [ANN] A.I. Art May 21, 2015, 05:49:46 PM #11 I see that most of people have no way to know anything outside of a small fraction of art. No one can tell anything outside of a small
- 
+
  ___
 
 Aciertos: 95 | monto humanos: 80 | monto A.I. 20
@@ -189,7 +183,7 @@ Aciertos: 53 | monto humanos: 3 | monto A.I. 97
  In the meantime, make sure you see me on Instagram @SensoryJokesDude, Facebook @SensoryJokesDude, and Pinterest to see other interesting creations.
 
  Related Links
- 
+
  ___
 
 Aciertos: 27 | monto humanos: 2 | monto A.I. 98
@@ -207,7 +201,7 @@ Aciertos: 27 | monto humanos: 2 | monto A.I. 98
  Hey everyone can look online and see that I don't hate human art, I hate what  some things say about human art (the main reason why I despise art is because  Humans are dumb and we humans have stupid minds) because the art is actually  bad. I understand that it is bad, and I know that I need to change it if I want  it to work. But I can't stop myself because I don't like human art, and that  means I don't care what it is.
 
  It is a bad thing to draw this with a drawn animal in a bad order as well. The  things said about our natural selection are totally wrong about what it is to  be human. As an art collector I need to remember that the human mind is capable  of having many forms. Of which I will go back and review for all to remember  for the rest of my life. I am afraid the fact that I have drawn human art,  should be seen as an evil deed, I dont think that there is any moral point if a
- 
+
  ___
 
 Aciertos: 73 | monto humanos: 68 | monto A.I. 32
